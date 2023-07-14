@@ -1,10 +1,11 @@
 <h3 align="center"> Hi 👋 there, I'm Musa SAYAR</a></h3>
 
-- 🌱 I’m currently learning React, Javascript, Bootstrap, JQuery and SQL
+- 🌱 I’m currently learning React, Redux-Toolkit, Javascript, Bootstrap, TailwindCss, Sass and Scss, NodeJs, JQuery, OracleSql and SQL
 - 💬 Ask me about anything.
 - 📫 How to reach me: musasayar67@gmail.com
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: I love code
+- ⚡ Fun fact: I love codeMode
+- 🌟 Yaratıcı, öğrenmeye açık ve takım çalışmasına önem veren biriyim. Birlikte harika projeler yapalım!
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/musayar9.gif?z=6)](https://github4life.herokuapp.com/musayar9)
 
