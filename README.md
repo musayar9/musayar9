@@ -1,6 +1,6 @@
 <h3 align="center"> Hi 👋 there, I'm Musa SAYAR</a></h3>
 
-- 🌱 I’m currently learning React, Next.js, React Native, Redux-Toolkit, TypeScript, Vue, Kotlin, Android, Javascript, Bootstrap, TailwindCss, Sass and Scss, NodeJs, ExpressJs, MongoDb, JQuery, PostreSql.
+- 🌱 I’m currently learning React, Next.js, React Native, Redux-Toolkit, TypeScript, Vue, Kotlin, Android, Javascript, Bootstrap, TailwindCss, Sass and Scss, NodeJs, ExpressJs, MongoDb, JQuery, PostgreSQL.
 - 💬 Ask me about anything.
 - 📫 How to reach me: musasayar67@gmail.com
 - 😄 Pronouns: He / His
